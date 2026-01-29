@@ -1,4 +1,4 @@
-## About me 👋
+## About me
 
 <h1 align="center">Hi 👋, I'm YiHyun</h1>
 
