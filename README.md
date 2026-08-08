@@ -1,14 +1,10 @@
 ## About Me
 
-<p align="center">────────── ✿ ──────────</p>
-
 ### 👩🏻‍💻 Portfolio
 - 🔗 [View Portfolio](https://kkugit.notion.site/Portfolio-2f63d2fc34028044b40cf22c2666dcca?pvs=74)
 
 ### 📫 Contact
 - gugithub@gmail.com  
-
-<p align="center">────────── ✿ ──────────</p>
 
 ### 🛠 Tech Stack
 
