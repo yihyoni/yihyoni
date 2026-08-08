@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi I'm YiHyun</h1>
 <p align="center">Web Designer & Developer</p>
-<p align="center"><sub>Designing clarity, building structure</sub></p>
 
 <p align="center">────────── ✿ ──────────</p>
 
