@@ -1,6 +1,6 @@
 ## About Me
 
-<h1 align="center">Hi I'm</h1>
+<h1 align="center">Hi</h1>
 <p align="center">Web Designer & Developer</p>
 
 <p align="center">────────── ✿ ──────────</p>
